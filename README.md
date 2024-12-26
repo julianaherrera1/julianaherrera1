@@ -4,6 +4,7 @@
 
 <h3 align="center">  Web developer passionate about learning and creating impactful digital experiences. 🌐 </h3>
 
+<!--
 ### 🚀 Tecnologías
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, React.
 - **Backend:** Node.js, Express, MongoDB.
@@ -15,6 +16,8 @@
 ### 📬 Contáctame
 - [LinkedIn](https://linkedin.com/in/tu-perfil)
 - [Correo](mailto:tu-correo@gmail.com)
+
+- -->
 
 
 <!--
